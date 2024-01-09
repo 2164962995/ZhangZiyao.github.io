@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a forth year undergraduate student from [School of Software](https://soft.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). My research interest includes natural language processing，large language model and code intelligence.
 
-I am very fortunate to be advised by [Prof.Wang](https://yanlin.info/) of InPlus Lab from [School of Software Engineering](https://sse.sysu.edu.cn/), [SUN YAT-SEN University](https://www.sysu.edu.cn/). 
+I am very fortunate to be advised by [Prof.Wang](https://yanlin.info/) of InPlus Lab from [School of Software Engineering](https://sse.sysu.edu.cn/), [SUN YAT-SEN University](https://www.sysu.edu.cn/). I am really glad to be a part of our team. 
 
 
 
